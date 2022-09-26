@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://loweel.github.io/sitemap.xml
